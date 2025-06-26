@@ -1,6 +1,8 @@
-# 👨‍💻 Armand Masseau
+# Machine Learning Engineer
 
-_M.Sc. in Data Science | AI & Risk Modeling | Open to full-time roles starting October 2025_
+_M.Sc. in Data Science | AI & Risk Modeling | Open to full-time roles starting October 2025
+
+Technical Skills: Python, SQL, Airflow, Docker, Kubernetes, Kedro, bash
 
 📍 Paris, France  
 📧 armand.masseau@etu.emse.fr  
@@ -9,15 +11,15 @@ _M.Sc. in Data Science | AI & Risk Modeling | Open to full-time roles starting O
 
 ---
 
+
 ## ⚙️ Technical Stack
 
 **Languages & Tools:**  
-Python (Pandas, Kedro, Scikit-learn, TensorFlow, PyTorch, FastAPI, Streamlit)  
+Python (Pandas, Kedro, Scikit-learn, pytest, TensorFlow, PyTorch, FastAPI, Streamlit)  
 SQL (PostgreSQL, duckDB, CTEs, Window Functions)  
 Airflow • Docker • Git • Linux (bash) • Spark • R • PowerBI  
 CI/CD: GitHub Actions  
-Testing: `unittest`, `pytest`  
-Reporting: ReportLab, Matplotlib, Microsoft Office
+Testing:`pytest`  
 
 ---
 
@@ -63,46 +65,23 @@ Toulouse, 2020–2022
 ## 🧠 Projects
 
 ### [📌 Job Finder — Smart Job Recommendation System](https://github.com/armandmasseaugit/job_finder)
+An end-to-end personal project designed to automatically send me in my inbox daily job opportunities:
 
-An end-to-end personal project:
-- Data collection, preprocessing, vectorization (TF-IDF + NLP)
-- Built a machine learning model to score job relevance
-- Alerts system via Kedro pipelines and Airflow
-- Deployment with Docker and cloud backup via S3
-
----
-
-## 📜 Certifications
-
-- **IBM Data Science Professional Certificate**  
-- > Over 200h of advanced training in Python, Streamlit, FastAPI, SQL, Spark, Airflow, Git, Linux shell
+- **Web scraping**, data cleaning, and **vectorization** of job listings  
+- Developed a **machine learning model** to score job relevance based on previous likes and dislikes  
+- Automated alert system orchestrated with **Kedro pipelines and Airflow**
+- Built a simple web interface via **Streamlit** to browse newly recommended offers  
+- Fully containerized with **Docker** and backed up on the cloud using **AWS S3**
 
 ---
 
 ## 🗣️ Languages
 
-- 🇫🇷 French: native  
-- 🇬🇧 English: fluent (TOEIC 925/990)  
-- 🇪🇸 Spanish: full professional proficiency  
-- 🏴‍☠️ Catalan: full professional proficiency  
-- 🇨🇳 Chinese: basic knowledge
+- French: native  
+- English: fluent **(TOEIC 925/990)**  
+- Spanish: full professional proficiency  
+- Catalan: full professional proficiency  
+- Chinese: basic knowledge
 
----
-
-## 🤝 Soft Skills
-
-- Proactive mindset  
-- Adaptability  
-- Reliability & rigor  
-- Team player  
-- Project management
-
----
-
-## 🏕️ Hobbies
-
-- Organizing long-distance hiking trips  
-
----
 
 > *Last updated: June 2025*
