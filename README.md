@@ -1,55 +1,108 @@
-# Data Scientist
+# 👨‍💻 Armand Masseau
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+_M.Sc. in Data Science | AI & Risk Modeling | Open to full-time roles starting October 2025_
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+📍 Paris, France  
+📧 armand.masseau@etu.emse.fr  
+🔗 [LinkedIn](https://www.linkedin.com/in/armand-masseau)  
+🔗 [GitHub](https://github.com/armandmasseaugit/job_finder)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+---
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+## ⚙️ Technical Stack
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+**Languages & Tools:**  
+Python (Pandas, Kedro, Scikit-learn, TensorFlow, PyTorch, FastAPI, Streamlit)  
+SQL (PostgreSQL, duckDB, CTEs, Window Functions)  
+Airflow • Docker • Git • Linux (bash) • Spark • R • PowerBI  
+CI/CD: GitHub Actions  
+Testing: `unittest`, `pytest`  
+Reporting: ReportLab, Matplotlib, Microsoft Office
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+---
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+## 🎓 Education
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+**🎓 M.Sc. in Data Science (Quantitative Finance Track)**  
+Université Paris-Saclay, 2024–2025  
+> Topics: Machine Learning, NLP, Deep Learning, LLMs, Time Series, Optimization  
+> Tools: Python, R, Git, PostgreSQL, Bash
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+**🎓 Engineering Degree — Microelectronics and Computer Science**  
+Mines Saint-Étienne (Gardanne campus), 2022–2025  
+> Topics: Machine Learning, Graph Optimization, OOP, Databases, Software Development
 
-![Bike Study](/assets/img/bike_study.jpeg)
+**🎓 Preparatory Classes for Engineering Schools (PSI\*)**  
+Toulouse, 2020–2022
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+---
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+## 💼 Work Experience
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+### 🏦 ML Engineer — *Société Générale*  
+📍 Paris — 6 months (2025)
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- Joined the Non-Financial Risk Datalab  
+- Developed and deployed a LLM-based application that generates reports for the Risk Committee to track risk indicators  
+- Stack: Python (Pandas, Kedro, pytest), Airflow, Docker, Kubernetes, AWS S3, Trino, GitHub Actions, SonarQube
+
+---
+
+### 💹 Data Engineer — *Banque de Luxembourg Investments*  
+📍 Luxembourg — 5 months (2024)
+
+- Built a Python tool to generate automated PDF reports with custom financial charts  
+- Saved several workdays per month for both the supervisor and the CEO  
+- Automated the organization and archiving of financial files  
+- Reduced monthly data provider fees through optimized data requests  
+- Designed a new cross-table reporting tool for fund-of-funds analysis, now used by the team  
+- Stack: Python (Pandas, os, Matplotlib, Tkinter, shutil, ReportLab), Microsoft Office
+
+---
+
+## 🧠 Projects
+
+### [📌 Job Finder — Smart Job Recommendation System](https://github.com/armandmasseaugit/job_finder)
+
+An end-to-end personal project:
+- Data collection, preprocessing, vectorization (TF-IDF + NLP)
+- Built a machine learning model to score job relevance
+- Alerts system via Kedro pipelines and Airflow
+- Deployment with Docker and cloud backup via S3
+
+---
+
+## 📜 Certifications
+
+- **IBM Data Science Professional Certificate**  
+- > Over 200h of advanced training in Python, Streamlit, FastAPI, SQL, Spark, Airflow, Git, Linux shell
+
+---
+
+## 🗣️ Languages
+
+- 🇫🇷 French: native  
+- 🇬🇧 English: fluent (TOEIC 925/990)  
+- 🇪🇸 Spanish: full professional proficiency  
+- 🏴‍☠️ Catalan: full professional proficiency  
+- 🇨🇳 Chinese: basic knowledge
+
+---
+
+## 🤝 Soft Skills
+
+- Proactive mindset  
+- Adaptability  
+- Reliability & rigor  
+- Team player  
+- Project management
+
+---
+
+## 🏕️ Hobbies
+
+- Organizing long-distance hiking trips  
+
+---
+
+> *Last updated: June 2025*
