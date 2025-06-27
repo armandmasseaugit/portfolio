@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 Projects
+## Projects
 
 ### [📌 Job Finder — Smart Job Recommendation System](https://github.com/armandmasseaugit/job_finder)
 
