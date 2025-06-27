@@ -2,7 +2,7 @@
 
 ⚙️ Technical Skills: **Python, SQL, Airflow, Docker, Kubernetes, Kedro, Linux (bash), Git**
 
-📧 armand.masseau@gmail.fr  
+📧 armand.masseau@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/armand-masseau)  
 
 ---
@@ -17,7 +17,7 @@ Developed an end-to-end system that automates job offer discovery across platfor
 
 ---
 
-## 🎓 Education
+## Education
 
 **🎓 M.Sc. in Data Science (Quantitative Finance Track)**  
 Université Paris-Saclay, France, 2024–2025  
@@ -30,7 +30,7 @@ Toulouse, 2020–2022
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### 🏦 ML Engineer — *Société Générale*  
 📍 Paris — 6 months (2025)
@@ -50,17 +50,6 @@ Toulouse, 2020–2022
 - Reduced monthly data provider fees through optimized data requests  
 - Designed a new cross-table reporting tool for fund-of-funds analysis, now used by the team  
 > Stack: Python (Pandas, os, Matplotlib, Tkinter, shutil, ReportLab), Microsoft Office
-
-
----
-
-## 🗣️ Languages
-
-- French: native  
-- English: fluent **(TOEIC 925/990)**  
-- Spanish: full professional proficiency  
-- Catalan: full professional proficiency  
-- Chinese: basic knowledge
 
 
 > *Last updated: June 2025*
