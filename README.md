@@ -37,7 +37,7 @@ Toulouse, 2020–2022
 
 - Joined the Non-Financial Risk Datalab  
 - Developed and deployed a LLM-based application that generates reports for the Risk Committee to track risk indicators  
-- Stack: Python (Pandas, Kedro, pytest), Airflow, Docker, Kubernetes, AWS S3, Trino, GitHub Actions, SonarQube, Jira
+> Stack: Python (Pandas, Kedro, pytest), Airflow, Docker, Kubernetes, AWS S3, Trino, GitHub Actions, SonarQube, Jira
 
 ---
 
