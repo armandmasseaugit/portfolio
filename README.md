@@ -26,12 +26,12 @@ Testing:`pytest`
 ## 🎓 Education
 
 **🎓 M.Sc. in Data Science (Quantitative Finance Track)**  
-Université Paris-Saclay, 2024–2025  
+Université Paris-Saclay, France, 2024–2025  
 > Topics: Machine Learning, NLP, Deep Learning, LLMs, Time Series, Optimization  
 > Tools: Python, R, Git, PostgreSQL, Bash
 
 **🎓 Engineering Degree — Microelectronics and Computer Science**  
-Mines Saint-Étienne (Gardanne campus), 2022–2025  
+Mines Saint-Étienne, France, 2022–2025  
 > Topics: Machine Learning, Graph Optimization, OOP, Databases, Software Development
 
 **🎓 Preparatory Classes for Engineering Schools (PSI\*)**  
@@ -68,7 +68,7 @@ Toulouse, 2020–2022
 
 **Turned job hunting into a personalized daily briefing**  
 Developed an end-to-end system that automates job offer discovery across platforms and uses user feedback to train a machine learning model ranking jobs by relevance. The system combines data collection, model training, and deployment in a streamlined pipeline that delivers daily personalized recommendations via email and an interactive web app.  
-**Stack:** Python (Pandas, Kedro, pytest, requests), Scikit-learn, GitHub Actions, Streamlit, Airflow, Docker, AWS S3.
+> Stack: Python (Pandas, Kedro, pytest, requests), Scikit-learn, GitHub Actions, Streamlit, Airflow, Docker, AWS S3.
 
 
 ---
