@@ -1,28 +1,15 @@
 # Machine Learning Engineer
 
-_M.Sc. in Data Science | AI & Risk Modeling | Open to full-time roles starting October 2025
+M.Sc. in Data Science | AI & Risk Modeling | **Open to full-time roles starting October 2025**
 
-Technical Skills: Python, SQL, Airflow, Docker, Kubernetes, Kedro, bash
+⚙️ Technical Skills: Python, SQL, Airflow, Docker, Kubernetes, Kedro, Linux (bash), Git, Jira
 
 📍 Paris, France  
-📧 armand.masseau@etu.emse.fr  
+📧 armand.masseau@gmail.fr  
 🔗 [LinkedIn](https://www.linkedin.com/in/armand-masseau)  
 🔗 [GitHub](https://github.com/armandmasseaugit/)
 
 ---
-
-
-## ⚙️ Technical Stack
-
-**Languages & Tools:**  
-Python (Pandas, Kedro, Scikit-learn, pytest, TensorFlow, PyTorch, FastAPI, Streamlit)  
-SQL (PostgreSQL, duckDB, CTEs, Window Functions)  
-Airflow • Docker • Git • Linux (bash) • Spark • R • PowerBI  
-CI/CD: GitHub Actions  
-Testing:`pytest`  
-
----
-
 
 ## 🧠 Projects
 
