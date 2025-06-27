@@ -7,7 +7,7 @@ Technical Skills: Python, SQL, Airflow, Docker, Kubernetes, Kedro, bash
 📍 Paris, France  
 📧 armand.masseau@etu.emse.fr  
 🔗 [LinkedIn](https://www.linkedin.com/in/armand-masseau)  
-🔗 [GitHub](https://github.com/armandmasseaugit/job_finder)
+🔗 [GitHub](https://github.com/armandmasseaugit/)
 
 ---
 
