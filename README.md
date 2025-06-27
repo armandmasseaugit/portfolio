@@ -1,13 +1,11 @@
 # Machine Learning Engineer
 
-M.Sc. in Data Science | AI & Risk Modeling | **Open to full-time roles starting October 2025**
+M.Sc. in Data Science | **Open to full-time roles starting October 2025**
 
-⚙️ Technical Skills: Python, SQL, Airflow, Docker, Kubernetes, Kedro, Linux (bash), Git, Jira
+⚙️ Technical Skills: **Python, SQL, Airflow, Docker, Kubernetes, Kedro, Linux (bash), Git**
 
-📍 Paris, France  
 📧 armand.masseau@gmail.fr  
 🔗 [LinkedIn](https://www.linkedin.com/in/armand-masseau)  
-🔗 [GitHub](https://github.com/armandmasseaugit/)
 
 ---
 
@@ -41,7 +39,7 @@ Toulouse, 2020–2022
 
 - Joined the Non-Financial Risk Datalab  
 - Developed and deployed a LLM-based application that generates reports for the Risk Committee to track risk indicators  
-- Stack: Python (Pandas, Kedro, pytest), Airflow, Docker, Kubernetes, AWS S3, Trino, GitHub Actions, SonarQube
+- Stack: Python (Pandas, Kedro, pytest), Airflow, Docker, Kubernetes, AWS S3, Trino, GitHub Actions, SonarQube, Jira
 
 ---
 
