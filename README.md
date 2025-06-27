@@ -65,13 +65,9 @@ Toulouse, 2020–2022
 ## 🧠 Projects
 
 ### [📌 Job Finder — Smart Job Recommendation System](https://github.com/armandmasseaugit/job_finder)
-An end-to-end personal project designed to automatically send me in my inbox daily job opportunities:
 
-- **Web scraping**, data cleaning, and **vectorization** of job listings  
-- Developed a **machine learning model** to score job relevance based on previous likes and dislikes  
-- Automated alert system orchestrated with **Kedro pipelines and Airflow**
-- Built a simple web interface via **Streamlit** to browse newly recommended offers  
-- Fully containerized with **Docker** and backed up on the cloud using **AWS S3**
+Turned job hunting into a personalized daily briefing: Developed an end-to-end system that automates job offer discovery across platforms and uses user feedback to train a machine learning model ranking jobs by relevance. The system combines data collection, model training, and deployment in a streamlined pipeline that delivers daily personalized recommendations via email and an interactive web app.
+Stack: Python (Pandas, Kedro, pytest), Scikit-learn, GitHub Actions, Streamlit, Airflow, Docker, AWS S3.
 
 ---
 
