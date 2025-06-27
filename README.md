@@ -1,7 +1,5 @@
 # Machine Learning Engineer
 
-M.Sc. in Data Science | **Open to full-time roles starting October 2025**
-
 ⚙️ Technical Skills: **Python, SQL, Airflow, Docker, Kubernetes, Kedro, Linux (bash), Git**
 
 📧 armand.masseau@gmail.fr  
