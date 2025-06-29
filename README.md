@@ -32,8 +32,8 @@ Toulouse, 2020–2022
 
 ## Work Experience
 
-### 🏦 ML Engineer — *Société Générale*  
-📍 Paris — 6 months (2025)
+### 🏦 Machine Learning Engineer — *Société Générale*  
+📍 Paris, La Défense — 6 months (2025)
 
 - Joined the Non-Financial Risk Datalab  
 - Developed and deployed a LLM-based application that generates reports for the Risk Committee to track risk indicators  
@@ -42,7 +42,7 @@ Toulouse, 2020–2022
 ---
 
 ### 💹 Data Engineer — *Banque de Luxembourg Investments*  
-📍 Luxembourg — 5 months (2024)
+📍 Luxembourg, Luxembourg — 5 months (2024)
 
 - Built a Python tool to generate automated PDF reports with custom financial charts  
 - Saved several workdays per month for both the supervisor and the CEO  
