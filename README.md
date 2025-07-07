@@ -34,14 +34,14 @@ Toulouse, 2020–2022
 
 ### <img src="assets/img/sg_logo.png" alt="Société Générale" width="33"/> Machine Learning Engineer — *Société Générale*  
 📍 Paris, La Défense — 6 months (2025)
-
-- Joined the Non-Financial Risk Datalab  
-- Developed and deployed a LLM-based application that generates reports for the Risk Committee to track risk indicators  
+Joined the Non-Financial Risk Datalab (7 data scientists). 
+- Developed and deployed a LLM-based application that generates reports for the Risk Committee to track risk indicators
+- Contributed to Société Générale’s internal data science library by adding reusable components and improving documentation.
 > Stack: Python (Pandas, Kedro, pytest), Airflow, Docker, Kubernetes, AWS S3, Trino, GitHub Actions, SonarQube, Jira, PostgreSQL
 
 ---
 
-### Data Engineer — *Banque de Luxembourg Investments*  
+### <img src="assets/img/bli_logo.png" alt="BLI" width="33"/> Data Engineer — *Banque de Luxembourg Investments*  
 📍 Luxembourg, Luxembourg — 5 months (2024)
 Integration of a team of investment fund managers and analysts (10 people). I automated time-consuming processes for my tutor.
 - Built a Python app to generate PDF reports with dynamic financial charts — **saving days of manual work monthly for my tutor and the CEO**.
