@@ -32,23 +32,23 @@ Toulouse, 2020–2022
 
 ## Work Experience
 
-### 🏦 Machine Learning Engineer — *Société Générale*  
+### Machine Learning Engineer — *Société Générale*  
 📍 Paris, La Défense — 6 months (2025)
 
 - Joined the Non-Financial Risk Datalab  
 - Developed and deployed a LLM-based application that generates reports for the Risk Committee to track risk indicators  
-> Stack: Python (Pandas, Kedro, pytest), Airflow, Docker, Kubernetes, AWS S3, Trino, GitHub Actions, SonarQube, Jira
+> Stack: Python (Pandas, Kedro, pytest), Airflow, Docker, Kubernetes, AWS S3, Trino, GitHub Actions, SonarQube, Jira, PostgreSQL
 
 ---
 
-### 💹 Data Engineer — *Banque de Luxembourg Investments*  
+### Data Engineer — *Banque de Luxembourg Investments*  
 📍 Luxembourg, Luxembourg — 5 months (2024)
-
-- Built a Python tool to generate automated PDF reports with custom financial charts  
-- Saved several workdays per month for both the supervisor and the CEO  
-- Automated the organization and archiving of financial files  
-- Reduced monthly data provider fees through optimized data requests  
-- Designed a new cross-table reporting tool for fund-of-funds analysis, now used by the team  
+Integration of a team of investment fund managers and analysts (10 people). I automated time-consuming processes for my tutor.
+- Built a Python app to generate PDF reports with dynamic financial charts — **saving days of manual work monthly for my tutor and the CEO**.
+- Automated file management and archiving for fund monitoring.
+- **Reduced monthly data provider costs by several hundred euros** through smarter data queries.
+- On my initiative, designed a cross-tab reporting tool for fund-of-funds analysis, now used by the team.
+- Worked with Bloomberg and MSCI APIs to automatically fetch and enrich internal financial datasets.
 > Stack: Python (Pandas, os, Matplotlib, Tkinter, shutil, ReportLab), Microsoft Office
 
 
