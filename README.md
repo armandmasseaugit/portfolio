@@ -32,7 +32,7 @@ Toulouse, 2020–2022
 
 ## Work Experience
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Société_Générale.svg/320px-Société_Générale.svg.png" alt="Société Générale" width="20"/> Machine Learning Engineer — *Société Générale*  
+### <img src="assets/img/sg_logo.png" alt="Société Générale" width="20"/> Machine Learning Engineer — *Société Générale*  
 📍 Paris, La Défense — 6 months (2025)
 
 - Joined the Non-Financial Risk Datalab  
