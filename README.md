@@ -32,7 +32,7 @@ Toulouse, 2020–2022
 
 ## Work Experience
 
-### Machine Learning Engineer — *Société Générale*  
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Société_Générale.svg/320px-Société_Générale.svg.png" alt="Société Générale" width="20"/> Machine Learning Engineer — *Société Générale*  
 📍 Paris, La Défense — 6 months (2025)
 
 - Joined the Non-Financial Risk Datalab  
@@ -52,4 +52,4 @@ Integration of a team of investment fund managers and analysts (10 people). I au
 > Stack: Python (Pandas, os, Matplotlib, Tkinter, shutil, ReportLab), Microsoft Office
 
 
-> *Last updated: June 2025*
+> *Last updated: July 2025*
