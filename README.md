@@ -13,7 +13,7 @@
 
 **Turned job hunting into a personalized daily briefing**  
 Developed an end-to-end system that automates job offer discovery across platforms and uses user feedback to train a machine learning model ranking jobs by relevance. The system combines data collection, model training, and deployment in a streamlined pipeline that delivers daily personalized recommendations via email and an interactive web app.  
-> Stack: Python (Pandas, Kedro, pytest, requests), Scikit-learn, GitHub Actions (CI/CD), Streamlit, Airflow, Docker, AWS S3.
+> Stack: Python (Pandas, Kedro, pytest, requests), Scikit-learn, GitHub Actions, CI/CD, Streamlit, Airflow, Docker, AWS S3.
 
 ---
 
@@ -37,9 +37,7 @@ Toulouse, 2020–2022
 Joined the Non-Financial Risk Datalab (7 data scientists). 
 - Developed and deployed a LLM-based application that generates reports for the Risk Committee to track risk indicators
 - Contributed to Société Générale’s internal data science library by adding reusable components and improving documentation.
-
-**Python • Pandas • Kedro • Pytest • Airflow • Docker • Kubernetes • AWS S3 • Trino • GitHub Actions • SonarQube • Jira • PostgreSQL**
-
+> Stack: Python (Pandas, Kedro, pytest), Airflow, Docker, Kubernetes, AWS S3, Trino, GitHub Actions, SonarQube, Jira, PostgreSQL
 ---
 
 ### <img src="assets/img/bli_logo.png" alt="BLI" width="50"/> Data Engineer — *Banque de Luxembourg Investments*  
