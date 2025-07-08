@@ -13,7 +13,7 @@
 
 **Turned job hunting into a personalized daily briefing**  
 Developed an end-to-end system that automates job offer discovery across platforms and uses user feedback to train a machine learning model ranking jobs by relevance. The system combines data collection, model training, and deployment in a streamlined pipeline that delivers daily personalized recommendations via email and an interactive web app.  
-> Stack: Python (Pandas, Kedro, pytest, requests), Scikit-learn, GitHub Actions, CI/CD, Streamlit, Airflow, Docker, AWS S3.
+> Stack: Python (Pandas, Kedro, pytest, requests), Scikit-learn, GitHub Actions, CI/CD, Streamlit, Airflow, Docker, Kubernetes, AWS S3.
 
 ---
 
