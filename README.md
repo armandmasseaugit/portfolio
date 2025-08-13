@@ -51,5 +51,15 @@ Integration of a team of investment fund managers and analysts (10 people). I au
 - Worked with Bloomberg and MSCI APIs to automatically fetch and enrich internal financial datasets.
 > Stack: Python (Pandas, os, Matplotlib, Tkinter, shutil, ReportLab), Microsoft Office
 
+---
+
+## 💬 Recommendations
+
+> *"I had the pleasure of supervising Armand during his internship, during which he demonstrated strong technical skills, exceeding our expectations.  
+> He took full ownership of all the tasks assigned to him, working with great autonomy, rigor, and a strong sense of responsibility.  
+> Armand also integrated perfectly into a team with diverse profiles, making a positive and constructive contribution.  
+> I highly recommend his profile, as his professionalism and commitment would be a valuable asset to any organization."*  
+> — **Paul Lemonnier**, Senior Data Scientist @ Société Générale
+
 
 > *Last updated: July 2025*
