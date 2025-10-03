@@ -7,6 +7,12 @@
 
 ---
 
+## 📝 Blog / Articles
+Check out my technical articles and tutorials on Medium:  
+🔗 [Armand Masseau on Medium](https://medium.com/@armand.masseau)
+
+---
+
 ## Projects
 
 ### [📌 Job Finder — Smart Job Recommendation System](https://github.com/armandmasseaugit/job_finder)
