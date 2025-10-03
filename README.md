@@ -23,19 +23,6 @@ Developed an end-to-end system that automates job offer discovery across platfor
 
 ---
 
-## Education
-
-**🎓 M.Sc. in Data Science (Quantitative Finance Track)**  
-Université Paris-Saclay, France, 2024–2025  
-
-**🎓 Engineering Degree — Microelectronics and Computer Science**  
-Mines Saint-Étienne, France, 2022–2025  
-
-**🎓 Preparatory Classes for Engineering Schools (PSI\*)**  
-Toulouse, 2020–2022
-
----
-
 ## Work Experience
 
 ### <img src="assets/img/sg_logo.png" alt="Société Générale" width="40"/> Machine Learning Engineer — *Société Générale*  
@@ -59,6 +46,19 @@ Integration of a team of investment fund managers and analysts (10 people). I au
 
 ---
 
+## Education
+
+**🎓 M.Sc. in Data Science (Quantitative Finance Track)**  
+Université Paris-Saclay, France, 2024–2025  
+
+**🎓 Engineering Degree — Microelectronics and Computer Science**  
+Mines Saint-Étienne, France, 2022–2025  
+
+**🎓 Preparatory Classes for Engineering Schools (PSI\*)**  
+Toulouse, 2020–2022
+
+---
+
 ## 💬 Recommendations
 
 > *"I had the pleasure of supervising Armand during his internship, during which he demonstrated strong technical skills, exceeding our expectations.  
@@ -68,4 +68,4 @@ Integration of a team of investment fund managers and analysts (10 people). I au
 > — **Paul Lemonnier**, Senior Data Scientist @ Société Générale
 
 
-> *Last updated: July 2025*
+> *Last updated: Sept 2025*
