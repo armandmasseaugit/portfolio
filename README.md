@@ -1,6 +1,6 @@
 # Machine Learning Engineer
 
-⚙️ Technical Skills: **Python, SQL, Airflow, Docker, Kubernetes, Kedro, Linux (bash), Git, GitHub Actions, CI/CD**
+⚙️ Technical Skills: **Python, SQL, Airflow, Docker, Kubernetes, Kedro, Linux (bash), Git, GitHub Actions (CI/CD)**
 
 📧 armand.masseau@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/armand-masseau)  
@@ -18,6 +18,18 @@ Developed an end-to-end system that automates job offer discovery across platfor
 ---
 
 ## Work Experience
+
+### <img src="assets/img/sg_logo.png" alt="Société Générale" width="40"/> Machine Learning Engineer — *Société Générale*  
+📍 Paris, Île-de-France — nov. 2025 – present  
+Joined the Investment Banking DataLab (20 data scientists & engineers).
+- Productionized machine learning models developed by Data Scientists, ensuring robustness, scalability, and monitoring in on-prem and Azure environments.
+- Designed, deployed, and maintained **ML infrastructure** (training, inference, orchestration) with a strong focus on **reliability, observability, and cost optimization**.
+- Implemented and standardized **CI/CD pipelines** for ML workflows, improving deployment consistency and reducing time-to-production.
+- Supported Data Science teams on **best practices** in MLOps, infrastructure-as-code, and operational monitoring.
+
+> Stack: Python, GitHub Actions (CI/CD), ArgoCD, Airflow, Docker, Kubernetes, Azure, Terraform, Elastic Stack, OpenTelemetry
+
+---
 
 ### <img src="assets/img/sg_logo.png" alt="Société Générale" width="40"/> Machine Learning Engineer — *Société Générale*  
 📍 Paris, La Défense — 6 months (2025) \
