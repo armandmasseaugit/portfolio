@@ -10,10 +10,11 @@
 ## Projects
 
 ### [📌 Job Finder — Smart Job Recommendation System](https://github.com/armandmasseaugit/job_finder)
-
-**Turned job hunting into a personalized daily briefing**  
-Developed an end-to-end system that automates job offer discovery across platforms and uses user feedback to train a machine learning model ranking jobs by relevance. The system combines data collection, model training, and deployment in a streamlined pipeline that delivers daily personalized recommendations via email and an interactive web app.  
-> Stack: Python (Pandas, Kedro, pytest, requests), Scikit-learn, GitHub Actions, CI/CD, Streamlit, Airflow, Docker, Kubernetes, AWS S3.
+**Ever spent hours scrolling through job boards, jumping from site to site, only to find the same irrelevant listings—or worse, miss the good ones entirely?**  
+*Job Finder* centralizes job offers from multiple sources and provides powerful features to make your job search smarter and more efficient:
+- **Centralized Job Discovery**: Aggregates job offers from various platforms into a single, unified interface. No more jumping from site to site—everything is in one place, sorted by relevance and ready for feedback.
+- **CV Matching**: Instantly match your CV to the most relevant job offers. Just drag and drop your CV into the app, and get personalized recommendations based on semantic similarity.
+> Stack: Python, Docker, Kubernetes, Azure, GitHub Actions (CI/CD), Terraform.
 
 ---
 
