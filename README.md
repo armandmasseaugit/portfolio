@@ -10,6 +10,10 @@
 ## 📝 Blog / Articles
 Check out my technical articles and tutorials on Medium:  
 🔗 [Armand Masseau on Medium](https://medium.com/@armand.masseau)
+Open source contributions: https://github.com/cookiecutter/cookiecutter/pull/2163
+https://github.com/apache/airflow/pull/54259
+https://github.com/kedro-org/kedro-plugins/pull/1216
+https://github.com/kedro-org/kedro-plugins/pull/1207
 
 ---
 
@@ -43,6 +47,27 @@ Integration of a team of investment fund managers and analysts (10 people). I au
 - On my initiative, designed a cross-tab reporting tool for fund-of-funds analysis, now used by the team.
 - Worked with Bloomberg and MSCI APIs to automatically fetch and enrich internal financial datasets.
 > Stack: Python (Pandas, os, Matplotlib, Tkinter, shutil, ReportLab), Microsoft Office
+
+---
+
+## 📝 Technical Writing & Open Source
+
+I regularly publish **in-depth technical articles and tutorials** on topics such as **Machine Learning engineering, MLOps, Airflow, Kedro, and production-grade data pipelines**.
+
+🔗 **Medium**: [Armand Masseau on Medium](https://medium.com/@armand.masseau)
+
+### 🧩 Open Source Contributions
+Active contributor to major open-source projects in the data & ML ecosystem:
+
+- **Cookiecutter** – Feature & improvements  
+  https://github.com/cookiecutter/cookiecutter/pull/2163
+
+- **Apache Airflow** – Core contribution  
+  https://github.com/apache/airflow/pull/54259
+
+- **Kedro** – Multiple contributions  
+  https://github.com/kedro-org/kedro-plugins/pull/1216  
+  https://github.com/kedro-org/kedro-plugins/pull/1207
 
 ---
 
