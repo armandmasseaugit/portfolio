@@ -1,6 +1,6 @@
 # Machine Learning Engineer
 
-⚙️ Technical Skills: **Python, SQL, Airflow, Docker, Kubernetes, Kedro, Linux (bash), Git, GitHub Actions (CI/CD)**
+⚙️ Technical Skills: **Python, SQL, Airflow, Docker, Kubernetes, Linux (bash), Git, GitHub Actions (CI/CD), ArgoCD**
 
 📧 armand.masseau@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/armand-masseau)  
