@@ -7,16 +7,6 @@
 
 ---
 
-## 📝 Blog / Articles
-Check out my technical articles and tutorials on Medium:  
-🔗 [Armand Masseau on Medium](https://medium.com/@armand.masseau)
-Open source contributions: https://github.com/cookiecutter/cookiecutter/pull/2163
-https://github.com/apache/airflow/pull/54259
-https://github.com/kedro-org/kedro-plugins/pull/1216
-https://github.com/kedro-org/kedro-plugins/pull/1207
-
----
-
 ## Projects
 
 ### [📌 Job Finder — Smart Job Recommendation System](https://github.com/armandmasseaugit/job_finder)
