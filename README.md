@@ -29,7 +29,6 @@ Joined the Investment Banking DataLab (20 data scientists & engineers).
 - Implemented and standardized CI/CD pipelines for ML workflows, improving deployment consistency and **reducing time-to-production by ~50%**.
 - Supported Data Science teams on best practices in MLOps, infrastructure-as-code, and operational monitoring.
 
-
 > Stack: Python, GitHub Actions (CI/CD), ArgoCD, Airflow, Docker, Kubernetes, Azure, Terraform, Elastic Stack, OpenTelemetry
 
 ---
@@ -39,6 +38,7 @@ Joined the Investment Banking DataLab (20 data scientists & engineers).
 Joined the Non-Financial Risk Datalab (7 data scientists). 
 - Developed and deployed an LLM-based application that generates reports for the Risk Committee to track key risk indicators, **resulting in a collective time saving of six workdays per month for committee members**.
 - Contributed to Société Générale’s internal data science library by adding reusable components and improving documentation.
+
 > Stack: Python (Pandas, Langchain, FastAPI, Kedro, pytest), Airflow, Docker, Kubernetes, AWS S3, Trino, GitHub Actions, SonarQube, Jira, PostgreSQL
 
 ---
@@ -51,6 +51,7 @@ Integration of a team of investment fund managers and analysts (10 people). I au
 - **Reduced monthly data provider costs by several hundred euros** through smarter data queries.
 - On my initiative, designed a cross-tab reporting tool for fund-of-funds analysis, now used by the team.
 - Worked with Bloomberg and MSCI APIs to automatically fetch and enrich internal financial datasets.
+
 > Stack: Python (Pandas, os, Matplotlib, Tkinter, shutil, ReportLab), Microsoft Office
 
 ---
