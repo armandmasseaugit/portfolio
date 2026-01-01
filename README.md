@@ -14,6 +14,7 @@
 *Job Finder* centralizes job offers from multiple sources and provides powerful features to make your job search smarter and more efficient:
 - **Centralized Job Discovery**: Aggregates job offers from various platforms into a single, unified interface. No more jumping from site to site—everything is in one place, sorted by relevance and ready for feedback.
 - **CV Matching**: Instantly match your CV to the most relevant job offers. Just drag and drop your CV into the app, and get personalized recommendations based on semantic similarity.
+
 > Stack: Python, Docker, Kubernetes, Azure, GitHub Actions (CI/CD), Terraform.
 
 ---
