@@ -23,10 +23,11 @@
 ### <img src="assets/img/sg_logo.png" alt="Société Générale" width="40"/> Machine Learning Engineer — *Société Générale*  
 📍 Paris, Île-de-France — nov. 2025 – present  
 Joined the Investment Banking DataLab (20 data scientists & engineers).
-- Productionized machine learning models developed by Data Scientists, ensuring robustness, scalability, and monitoring in on-prem and Azure environments.
-- Designed, deployed, and maintained **ML infrastructure** (training, inference, orchestration) with a strong focus on **reliability, observability, and cost optimization**.
-- Implemented and standardized **CI/CD pipelines** for ML workflows, improving deployment consistency and reducing time-to-production.
-- Supported Data Science teams on **best practices** in MLOps, infrastructure-as-code, and operational monitoring.
+- Responsible for deploying machine learning models developed by Data Scientists, designing and maintaining ML infrastructure (on-prem & Azure)
+- Designed, deployed, and maintained ML infrastructure (training, inference, orchestration) with a strong focus on reliability, observability, and cost optimization.
+- Implemented and standardized CI/CD pipelines for ML workflows, improving deployment consistency and **reducing time-to-production by ~50%**.
+- Supported Data Science teams on best practices in MLOps, infrastructure-as-code, and operational monitoring.
+
 
 > Stack: Python, GitHub Actions (CI/CD), ArgoCD, Airflow, Docker, Kubernetes, Azure, Terraform, Elastic Stack, OpenTelemetry
 
